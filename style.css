@@ -169,8 +169,3 @@ button {
     font-size: 53px;
     line-height: 62px;
 }
-
-@keyframes modalvisible{
-    from {top:-100px;opacity: 0;}
-  to {top:0px;opacity:1;}
-}
